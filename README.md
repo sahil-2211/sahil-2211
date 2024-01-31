@@ -1,5 +1,5 @@
 # 💫 Hey, I'm Sahil! 🐥
-🌱 I'm currently learning frontend. <br>🤔 I’m looking for a job as a web Developer .<br>💬 Ask me about anything between Code and Community 💖<br>😄 Pronouns: He/Him
+🌱 I'm currently learning frontend. <br>🤔 I’m looking for a job as a web Developer .<br>💬 Ask me about anything between Code and Community 💖
 
 
 ## 🌐 Socials:
